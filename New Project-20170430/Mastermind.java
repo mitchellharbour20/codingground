@@ -1,5 +1,3 @@
-//Created by Mitchell Harbour
-
 import java.util.*;
 
 class Mastermind {
